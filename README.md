@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+Seja+bem-vindo!;😎Meu+nome+é+Natália!)](https://git.io/typing-svg)  
+### Olá, eu sou a Natália!👋
 
-💻 Estudante de programação, com interesse especial em **Front-End**.   
-🚀 Aprendendo **JavaScript, HTML, CSS** e explorando novas tecnologias.
+🚀 Iniciando minha jornada no mundo da programação. Atualmente, estou aprendendo **JavaScript** e explorando novas tecnologias para aprimorar minhas habilidades.
+
+🎯 **O que estou estudando?**
+- JavaScript (básico ao avançado)
+- HTML e CSS
+- Git e GitHub
+
+💡 Sempre aberta a aprender coisas novas e compartilhar conhecimento!
